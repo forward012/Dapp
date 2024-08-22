@@ -1,3 +1,3 @@
-This is Dapp using xfi token.
-ADD.
-add
+
+ xfi token.ADD
+
